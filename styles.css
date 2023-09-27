@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#hero{
+    display: grid;
+    grid-template-columns: repeat(2,200px);
+
+}
+#villan{
+    display: grid;
+    grid-template-columns: repeat(2,200px);
+    margin-left: 50px;
+}
+#match1{
+    display: grid;
+    grid-template-columns: repeat(3,300px);
+    margin-left: 100px;
+}
